@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687229991623,
+            "name": "C:\\Users\\roxru\\Desktop\\TRAINING-2-JUNE\\NodeJs-Starter\\logs\\access.2023-06-20.log",
+            "hash": "57130fc01730d9f5ecb7721decf97d58"
+        },
+        {
+            "date": 1687249774062,
+            "name": "C:\\Users\\roxru\\Desktop\\TRAINING-2-JUNE\\NodeJs-Starter Activity\\logs\\access.2023-06-20.log",
+            "hash": "91c7a1cd02fc4bcf50699db7f6497dc7"
+        },
+        {
+            "date": 1687306680584,
+            "name": "C:\\Users\\roxru\\Desktop\\TRAINING-2-JUNE\\NodeJs-Starter Activity\\logs\\access.2023-06-21.log",
+            "hash": "fee6dbc568e687843095d6f7a354d47d"
+        }
+    ]
+}
